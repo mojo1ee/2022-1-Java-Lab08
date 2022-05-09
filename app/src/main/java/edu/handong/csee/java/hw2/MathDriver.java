@@ -126,6 +126,13 @@ public class MathDriver {
                                 mathCalculator.getSquare(Integer.parseInt(args[2])));
 
             break;
+            
+            case "Zero":
+                System.out.println("Driver Name: " + mathCalculator.getName() +
+                                    ", Answer: " +                    
+                                    mathCalculator.getZero(Integer.parseInt(args[2])));
+
+                break;
 
 
             default:

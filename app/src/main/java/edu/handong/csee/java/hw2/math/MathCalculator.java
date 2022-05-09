@@ -212,4 +212,15 @@ public class MathCalculator {
 
         return square;
     }
+    
+    /**
+     * This is a method for getting zero no matter which integer input.
+     */
+    public int getZero(int num){
+        int Zero;
+
+        Zero = num*0;
+
+        return Zero;
+    }
 }
