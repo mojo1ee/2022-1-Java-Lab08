@@ -2,7 +2,7 @@ package edu.handong.csee.java.hw2;
 
 import edu.handong.csee.java.hw2.math.MathCalculator;
 
-
+//author: Junhyung Lee
 //last day of edit 10 MAY 22
 
 /**
