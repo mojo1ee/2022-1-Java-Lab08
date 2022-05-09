@@ -2,7 +2,7 @@ package edu.handong.csee.java.hw2.math;
 
 /**
  * This is a MathCalculator class that contains various math calculation methods.
- * Following are the types of calcultation that this class provides. 
+ * Following are the types of calculation that this class provides. 
  * 
  * getMax, getMin, getAbs, getSum, getDiff, 
  * getProduct, getQuotient, getRemainder, getPower, 
@@ -34,7 +34,7 @@ public class MathCalculator {
     }
 
     /**
-     * This is a method for getting the mininmum value from the two integer input values. 
+     * This is a method for getting the minimum value from the two integer input values. 
      */
     public int getMin(int num1, int num2){
         if (num1 < num2) return num1;
@@ -89,7 +89,7 @@ public class MathCalculator {
     }
 
     /**
-     * This is a method for getting the Remainder of integer input num1 divied by integer input num2
+     * This is a method for getting the Remainder of integer input num1 divided by integer input num2
      *  Produces an error message when num2 is 0
      */
     public int getRemainder(int num1, int num2){
